@@ -1,0 +1,1 @@
+var json_Rekomendasilintasanpengganti_7 = {"type":"FeatureCollection","name":"Rekomendasilintasanpengganti_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"MultiLineString","coordinates":[[[121.915179301978554,-5.116742458228133],[121.915153827390583,-5.109864319476181]]]}}]}
